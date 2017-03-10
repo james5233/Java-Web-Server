@@ -51,7 +51,8 @@ java MyClient localhost 8080 "James Wilkins Booth"
 ```
 4. Read Client usage and perform transactions
 
-## Files
+## Some Important Files
+```
 .
 ├── Readme.txt                   (README FILE)
 └── src
@@ -80,7 +81,7 @@ java MyClient localhost 8080 "James Wilkins Booth"
         └── Stock.java                        .
 
 2 directories, 23 files
-
+```
 
 ## Challenges Faced
 --> Client/Server Comm. using HTTP Protocol, parsing header and body
